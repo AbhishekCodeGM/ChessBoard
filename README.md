@@ -12,6 +12,16 @@ This project visualizes a mathematical surface function overlaid on a classic 8x
 ![Figure_1](https://github.com/user-attachments/assets/7585d84a-ecfa-454d-adde-cd323c603953)
 
 
+## 📌 Overview
+
+The script generates:
+
+- An **8x8 chessboard grid** using NumPy and `imshow` with a binary color map.
+- A **mathematical surface overlay** rendered with a smooth gradient using the `viridis` colormap.
+- Both layers are blended using transparency (`alpha`) to visualize data over the classic board structure.
+
+
+
 ## 📦 Requirements
 
 - Python 3.8 or higher
