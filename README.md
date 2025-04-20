@@ -9,8 +9,8 @@ This project visualizes a mathematical surface function overlaid on a classic 8x
 
 ## 📸 Preview
 
-> 🖼️ *Image coming soon!*  
-> To generate the visual, simply run the script below.
+![Figure_1](https://github.com/user-attachments/assets/7585d84a-ecfa-454d-adde-cd323c603953)
+
 
 ## 📦 Requirements
 
